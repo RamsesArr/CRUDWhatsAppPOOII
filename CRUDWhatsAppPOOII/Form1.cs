@@ -74,9 +74,5 @@ namespace CRUDWhatsAppPOOII
             btnExportar.Enabled = false;
         }
 
-        private void txtNombre_TextChanged(object sender, EventArgs e)
-        {
-
         }
     }
-}
